@@ -1,4 +1,4 @@
-<h1 align="center">Assignment 4: Medical Register Flask App</h1>
+<h1 align="center">Medical Register Flask App</h1>
 
 # Overview
 The General Medical Council (GMC) holds a full register of qualified doctors. Each registered doctor holds a unique GMC number. This project is a simplified version consisting of a number of files creating a Flask app with client side and server side functionality, allowing the client to search for doctor by name/GMC number, register a doctor and remove a doctor from the register.<br>
